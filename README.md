@@ -153,4 +153,4 @@ The Out of Body Journal explores living reality. See the wiki for the most recen
 Further Reading:
 "The Golden One: An Out Of Body Book" 
 
-[Home Page XRP Wiki](https://github.com/InfiniteIntel/Out-Of-Body/wiki)
+[Home Page Out of Body Journal](https://github.com/InfiniteIntel/Out-Of-Body/wiki)
