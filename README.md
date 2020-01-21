@@ -1,4 +1,4 @@
-# Welcome to the **Out of Body Journal**
+# Welcome to **Out of Body** Journal with Prince Paul Mamakos
 **![](https://github.com/InfiniteIntel/Out-Of-Body/blob/master/screenshot.png)**
 <meta name="monetization" content="$pay.stronghold.co/1a18545b430c2c64a2a941619fccb95e258">
 
