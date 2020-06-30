@@ -1,27 +1,6 @@
 # Welcome to **Out of Body** Journal with Prince Paul Mamakos
 **![](https://github.com/InfiniteIntel/Out-Of-Body/blob/master/screenshot.png)**
-<meta name="monetization" content="$pay.stronghold.co/1a18545b430c2c64a2a941619fccb95e258">
-<div id="paypal-button-container"></div>
-<script src="https://www.paypal.com/sdk/js?client-id=AemiqJ80J4D4_OrnLO5yhcqFaLdiCJedYElJo1K7MSwCQaEIGkEMh9OEuzFLXzB0RbKn2efSF-exk-OP&vault=true" data-sdk-integration-source="button-factory"></script>
-<script>
-  paypal.Buttons({
-      style: {
-          shape: 'rect',
-          color: 'gold',
-          layout: 'vertical',
-          label: 'subscribe',
-          
-      },
-      createSubscription: function(data, actions) {
-        return actions.subscription.create({
-          'plan_id': 'P-5XP801897U671780EL35W7XY'
-        });
-      },
-      onApprove: function(data, actions) {
-        alert(data.subscriptionID);
-      }
-  }).render('#paypal-button-container');
-</script>
+
 # **Out of Body Journal**
 ### **Oneness and One**
 In [2017](https://www.amazon.com/Golden-One-Body-Book-Oneness-ebook/dp/B072LXLSDW), Prince Paul Mamakos summarized the three stages of out of body experience. 
