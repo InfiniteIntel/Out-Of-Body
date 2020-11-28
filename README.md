@@ -1,5 +1,5 @@
 # Welcome to **Out of Body** Journal with Prince Paul Mamakos
-**![](https://github.com/InfiniteIntel/Out-Of-Body/blob/master/screenshot.png)**
+**![](https://github.com/InfiniteIntel/Out-Of-Body/blob/master/GoodAction.png)**
 
 # **Out of Body Journal**
 ### **Oneness and One**
